@@ -1,4 +1,4 @@
-# Batting Average App
+# Batting Average App (RUBY lang)
 
 Batting average is simple and a common way to measure batter’s performance.
 Create an app that will ingest a raw CSV file with player statistics and
@@ -48,7 +48,7 @@ names, it doesn't need to be uploaded from the user.
 
 ## Guidelines
 
-* Use any of the major languages that can run on OSX
+* Use Ruby lang
 * The app can be client only or client-server split, up to you
 * Do not fork this repo, create a clean one for a solution
 * Feel free to ask for any clarification
