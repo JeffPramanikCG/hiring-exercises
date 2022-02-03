@@ -12,7 +12,7 @@ Hash structure:
 - key: timestamp's day as a string `created_at`
 - value: array of hashes (records grouped by the same day) with the following keys:
   - `client_id`
-  - `outbound` - number of Oubound records for ther same `client_id` where "entryable_type": `PhoneCall::Outbound`
+  - `outbound` - number of Oubound records for their same `client_id` where "entryable_type": `PhoneCall::Outbound`
   - `admin` - boolean, true if `admin_id` is not null
 
 ## Example output:
