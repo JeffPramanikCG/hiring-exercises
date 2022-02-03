@@ -1,0 +1,4166 @@
+[
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-26 01:01:09.541721"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 01:00:35.5565"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 01:00:02.346845"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-26 00:59:30.712646"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-26 00:57:57.699293"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-26 00:56:39.826106"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:54:36.487069"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:54:22.764259"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:53:45.800855"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:53:24.048817"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:52:40.670149"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:52:12.708246"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-26 00:51:44.312308"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:51:00.942326"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-26 00:50:14.504855"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-26 00:49:57.327073"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-26 00:49:14.364883"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:48:35.315544"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-26 00:47:48.868936"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:47:04.713214"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:46:12.490059"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-26 00:45:33.580415"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-26 00:44:57.669436"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:43:18.888922"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-26 00:42:31.927076"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:41:42.875287"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:40:53.026254"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-26 00:40:06.398863"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-26 00:39:32.724139"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:38:34.726545"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-26 00:37:33.557482"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-26 00:36:52.04361"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-26 00:36:11.428099"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-26 00:33:09.177027"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-26 00:32:25.417367"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-26 00:31:37.209653"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-26 00:30:52.967387"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-26 00:29:29.186458"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-26 00:28:36.922708"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1572,
+    "created_at": "2021-11-26 00:27:55.894644"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1572,
+    "created_at": "2021-11-26 00:26:52.798876"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-26 00:26:06.222872"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-26 00:25:31.316416"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 01:02:47.92961"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-25 01:02:05.712711"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 01:01:30.24315"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 01:00:53.659706"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-25 01:00:21.230052"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-25 00:58:00.634626"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-25 00:56:40.083672"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:54:33.259295"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:54:19.665925"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:53:38.701163"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:53:14.725307"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:52:28.63995"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:51:55.444721"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-25 00:51:24.125048"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:50:36.996002"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-25 00:49:53.693892"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-25 00:49:37.55198"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-25 00:48:52.819065"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:48:09.222594"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-25 00:47:22.415868"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:46:37.950551"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:45:47.874688"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-25 00:45:08.206771"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-25 00:44:30.862978"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:43:00.434668"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-25 00:42:11.778803"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:41:23.510217"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:40:33.988692"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-25 00:39:39.473918"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1572,
+    "created_at": "2021-11-25 00:39:03.996013"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:38:11.864255"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-25 00:37:13.628142"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-25 00:36:32.272123"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-25 00:35:54.001043"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-25 00:33:01.599237"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-25 00:32:20.077091"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-25 00:31:35.588074"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-25 00:30:52.675809"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-25 00:29:29.627969"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-25 00:28:37.049028"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1571,
+    "created_at": "2021-11-25 00:27:55.151965"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1571,
+    "created_at": "2021-11-25 00:26:53.244424"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1571,
+    "created_at": "2021-11-25 00:26:06.15829"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1571,
+    "created_at": "2021-11-25 00:25:30.290289"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 01:03:12.238293"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-24 01:02:37.519784"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 01:01:57.417711"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 01:01:23.877479"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1571,
+    "created_at": "2021-11-24 01:00:50.577488"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1571,
+    "created_at": "2021-11-24 00:59:11.554156"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-24 00:57:45.984685"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:55:39.130599"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:55:25.902016"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:54:48.190387"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:54:26.40131"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:53:42.33095"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:53:14.00273"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-24 00:52:44.817046"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:51:57.612688"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-24 00:51:17.271712"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-24 00:50:57.274053"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-24 00:50:13.615903"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:49:33.99586"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-24 00:48:46.156848"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:47:54.804487"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:47:09.118467"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-24 00:46:23.407392"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-24 00:45:46.43695"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:44:13.410884"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-24 00:43:25.339575"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:42:36.157353"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:41:45.716102"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1571,
+    "created_at": "2021-11-24 00:40:57.154023"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1571,
+    "created_at": "2021-11-24 00:40:23.220136"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:39:31.238392"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:38:33.70419"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-24 00:38:31.16704"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-24 00:37:48.878217"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-24 00:36:56.698729"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-24 00:36:15.771765"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-24 00:33:22.281082"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-24 00:32:39.166843"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-24 00:31:56.139165"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-24 00:31:13.491732"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-24 00:29:50.073869"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-24 00:28:57.24828"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1571,
+    "created_at": "2021-11-24 00:28:14.539149"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1571,
+    "created_at": "2021-11-24 00:27:15.901224"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1571,
+    "created_at": "2021-11-24 00:26:23.549613"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1571,
+    "created_at": "2021-11-24 00:25:45.35246"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 126,
+    "client_id": 1570,
+    "created_at": "2021-11-23 11:57:41.447252"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 01:04:36.92289"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-23 01:04:00.611294"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 01:03:23.197789"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 01:02:45.032607"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1570,
+    "created_at": "2021-11-23 01:02:08.359815"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1570,
+    "created_at": "2021-11-23 00:58:46.506287"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-23 00:57:17.494005"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:55:09.280795"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:54:54.882508"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:54:17.27939"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:53:53.695745"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:53:10.159689"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:52:36.105272"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-23 00:52:06.818019"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:51:21.694919"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-23 00:50:39.780573"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-23 00:50:24.098172"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-23 00:49:40.577829"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:48:59.584742"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-23 00:48:11.968456"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:47:27.530072"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:46:41.769331"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-23 00:46:01.252085"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-23 00:45:25.579285"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:43:54.266564"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-23 00:43:05.789696"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:42:16.921638"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:41:25.450599"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1570,
+    "created_at": "2021-11-23 00:40:36.154561"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1570,
+    "created_at": "2021-11-23 00:40:01.763738"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:39:07.145743"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-23 00:38:09.284097"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-23 00:37:27.263216"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-23 00:36:21.643946"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-23 00:33:23.720307"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-23 00:32:41.52342"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-23 00:32:00.074967"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-23 00:31:19.606435"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-23 00:29:57.083142"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-23 00:29:05.259367"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1570,
+    "created_at": "2021-11-23 00:28:23.820505"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1570,
+    "created_at": "2021-11-23 00:27:20.542393"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1570,
+    "created_at": "2021-11-23 00:26:32.561315"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1570,
+    "created_at": "2021-11-23 00:25:48.31226"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 01:02:41.486004"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-22 01:02:08.080875"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 01:01:33.508927"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 01:01:00.593045"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-22 01:00:27.822389"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-22 00:58:54.337841"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-22 00:57:36.262348"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:55:34.873492"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:55:21.528593"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:54:43.074154"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:54:19.937515"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:53:34.422972"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:53:05.906025"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-22 00:52:36.600299"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:51:51.43462"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-22 00:51:09.451041"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-22 00:50:53.453401"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-22 00:50:08.915842"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-22 00:49:49.432876"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-22 00:48:57.147997"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-22 00:48:40.353574"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-22 00:47:50.775611"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:47:10.334486"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-22 00:46:24.799876"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:45:40.354157"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:44:46.551006"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-22 00:44:02.515375"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-22 00:43:19.223176"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:41:40.757383"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-22 00:40:52.108393"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:40:03.612695"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:39:14.252239"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-22 00:38:26.94942"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-22 00:37:53.495714"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:37:00.396292"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-22 00:36:02.332456"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-22 00:35:22.346819"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-22 00:34:42.487295"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-22 00:31:53.931755"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-22 00:31:10.603848"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-22 00:30:27.272213"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-22 00:29:43.996735"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-22 00:28:22.283838"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-22 00:27:29.905357"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1569,
+    "created_at": "2021-11-22 00:26:49.402153"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1569,
+    "created_at": "2021-11-22 00:25:48.670306"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-22 00:24:59.630625"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-22 00:24:26.178556"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 01:02:55.467824"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-21 01:02:21.821614"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 01:01:48.552091"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 01:01:14.631498"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-21 01:00:42.215669"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-21 00:59:08.245491"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-21 00:57:43.414127"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:55:39.115115"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:55:25.746799"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:54:46.490816"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:54:23.647606"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:53:38.584275"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:53:08.674858"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-21 00:52:41.619097"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:51:51.539587"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-21 00:51:05.496687"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-21 00:50:49.545882"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-21 00:50:04.510016"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:49:22.409425"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-21 00:48:28.978313"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:47:44.433335"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:46:58.30982"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-21 00:46:16.105286"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-21 00:45:39.459983"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:44:03.098397"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-21 00:43:13.704139"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:42:25.441062"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:41:36.759116"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-21 00:40:45.518082"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-21 00:40:11.103064"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:39:20.418826"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-21 00:38:22.228995"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-21 00:37:37.039116"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-21 00:36:57.523964"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-21 00:33:51.27477"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-21 00:33:07.97336"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-21 00:32:21.769225"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-21 00:31:37.359338"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-21 00:30:08.377926"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-21 00:29:15.293854"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1569,
+    "created_at": "2021-11-21 00:28:32.105673"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1569,
+    "created_at": "2021-11-21 00:27:29.429202"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-21 00:26:41.834289"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1569,
+    "created_at": "2021-11-21 00:26:04.207446"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 01:02:14.549476"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-20 01:01:34.394372"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 01:00:58.833157"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 01:00:23.448081"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1568,
+    "created_at": "2021-11-20 00:59:51.275951"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1568,
+    "created_at": "2021-11-20 00:58:17.51387"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-20 00:56:56.286085"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:54:52.999429"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:54:40.151995"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:54:00.762107"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:53:36.078046"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:52:51.532619"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:52:15.847971"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-20 00:51:46.107397"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:50:58.79203"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-20 00:50:17.463939"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-20 00:50:00.421204"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-20 00:49:20.714454"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:48:34.641763"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-20 00:47:48.770171"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:46:59.047523"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:46:11.359754"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-20 00:45:27.135341"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-20 00:44:50.918534"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:43:17.054392"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-20 00:42:25.24671"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:41:35.276704"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:40:46.447422"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1568,
+    "created_at": "2021-11-20 00:39:59.399781"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1568,
+    "created_at": "2021-11-20 00:39:25.43456"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:38:34.10843"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-20 00:37:33.831155"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-20 00:36:50.830726"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-20 00:36:12.032103"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-20 00:33:17.068147"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-20 00:32:34.382336"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-20 00:31:51.120653"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-20 00:31:09.349695"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-20 00:29:42.741465"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-20 00:28:51.197063"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1568,
+    "created_at": "2021-11-20 00:28:07.780658"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1568,
+    "created_at": "2021-11-20 00:26:56.994103"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1568,
+    "created_at": "2021-11-20 00:26:08.043135"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1568,
+    "created_at": "2021-11-20 00:25:33.472899"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 19:17:15.049058"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 01:09:03.298896"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-19 01:08:29.514349"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 01:07:56.837831"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 01:07:23.120551"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1568,
+    "created_at": "2021-11-19 01:06:45.871488"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1568,
+    "created_at": "2021-11-19 01:05:04.695236"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-19 01:03:40.735151"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 01:01:19.535056"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 01:01:05.364155"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 01:00:25.884847"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:59:34.317963"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:59:10.326611"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:58:21.037595"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:57:27.355778"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-19 00:55:28.271926"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:54:40.046839"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-19 00:53:52.842211"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-19 00:53:34.725896"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-19 00:52:50.503028"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:52:09.433152"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-19 00:51:23.474185"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:50:36.729698"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:49:45.011049"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-19 00:49:02.937413"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-19 00:48:24.804293"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:46:43.424283"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-19 00:45:48.290085"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:44:59.001963"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:44:09.179316"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:43:02.964292"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-19 00:42:14.758174"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-19 00:41:39.916668"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:40:46.752454"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-19 00:39:43.651339"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-19 00:38:56.483343"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-19 00:38:09.515411"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-19 00:37:30.35818"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-19 00:34:31.111722"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-19 00:33:41.953463"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-19 00:32:49.153797"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-19 00:32:03.920241"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-19 00:30:39.344167"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-19 00:29:42.079039"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1567,
+    "created_at": "2021-11-19 00:28:59.201843"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1567,
+    "created_at": "2021-11-19 00:27:50.613029"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-19 00:27:01.171573"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-19 00:26:14.178421"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 126,
+    "client_id": 1567,
+    "created_at": "2021-11-18 11:57:43.31921"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-18 11:57:07.821159"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-18 11:21:13.063258"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:52:08.144286"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-18 10:51:33.719151"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:50:59.735703"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:50:24.061725"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-18 10:49:49.767916"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-18 10:48:15.224379"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-18 10:46:54.910286"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:44:50.502728"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:44:37.743288"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:43:54.571304"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:43:28.582619"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:42:41.847133"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:42:11.572995"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 10:41:42.109694"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:40:52.613167"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-18 10:40:09.630623"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-18 10:39:51.028518"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 10:39:08.221542"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:38:20.236855"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-18 10:37:33.461022"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:36:48.083702"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:36:01.649052"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 10:35:21.401766"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 10:34:31.077939"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:32:58.003266"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-18 10:32:08.022996"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:31:19.427362"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:30:28.414854"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-18 10:29:37.546003"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-18 10:29:03.402992"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:28:10.167023"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 10:27:11.853266"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-18 10:26:29.097017"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-18 10:25:47.284581"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 10:22:54.920132"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 10:22:10.052841"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 10:21:26.639503"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 10:20:44.336811"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 10:19:20.627987"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-18 10:18:28.115495"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1567,
+    "created_at": "2021-11-18 10:17:46.087439"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1567,
+    "created_at": "2021-11-18 10:16:43.040637"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-18 10:15:49.569838"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1567,
+    "created_at": "2021-11-18 10:15:14.956721"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 01:05:00.274406"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-18 01:04:25.25167"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 01:03:51.17134"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 01:03:18.273733"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-18 01:02:46.922311"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-18 01:01:11.85837"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-18 00:59:50.425335"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:57:47.354639"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:57:33.311447"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:56:55.40164"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:56:32.748789"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:55:47.416013"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:55:18.945713"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 00:54:49.280326"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:54:02.093968"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-18 00:53:14.886079"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-18 00:52:57.613931"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 00:52:12.389442"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:51:30.031577"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-18 00:50:42.849263"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:49:56.350145"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:49:10.646867"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 00:48:28.053286"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 00:47:42.939238"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:46:06.094935"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-18 00:45:15.509564"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:44:27.165659"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:43:38.272204"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-18 00:42:48.942591"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-18 00:42:14.429769"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:41:20.74502"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-18 00:40:20.034237"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-18 00:39:33.964981"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-18 00:38:44.903018"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-18 00:37:55.856747"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-18 00:37:16.090569"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 00:34:14.325274"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 00:33:28.509706"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 00:32:44.607324"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 00:32:01.857718"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-18 00:30:38.350888"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-18 00:29:44.955676"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1566,
+    "created_at": "2021-11-18 00:29:02.59313"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1566,
+    "created_at": "2021-11-18 00:27:59.655135"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-18 00:27:11.681154"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-18 00:26:36.388303"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 01:03:38.337348"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-17 01:03:03.045432"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 01:02:27.925748"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 01:01:52.680365"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-17 01:01:18.486615"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-17 00:58:44.430623"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-17 00:57:21.847456"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:55:19.494001"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:55:06.675346"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:54:27.742709"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:54:04.098026"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:53:20.289208"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:52:52.260557"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-17 00:52:20.814777"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:51:35.482663"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-17 00:50:51.449333"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-17 00:50:34.363926"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-17 00:49:49.153439"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:49:07.969751"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-17 00:48:15.822745"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:47:31.36088"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:46:41.207179"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-17 00:46:01.445399"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-17 00:45:25.42751"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:43:46.747011"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-17 00:42:58.315558"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:42:11.03181"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:41:22.475342"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-17 00:40:32.254771"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1566,
+    "created_at": "2021-11-17 00:39:54.785008"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:39:01.556332"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-17 00:38:03.094289"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-17 00:37:22.916969"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-17 00:36:42.813709"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-17 00:33:49.176828"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-17 00:33:07.696678"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-17 00:32:20.567101"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-17 00:31:38.125309"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-17 00:30:15.14223"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-17 00:29:23.506407"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1565,
+    "created_at": "2021-11-17 00:28:42.409662"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1565,
+    "created_at": "2021-11-17 00:27:36.812199"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1565,
+    "created_at": "2021-11-17 00:26:48.839112"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1565,
+    "created_at": "2021-11-17 00:26:12.843688"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1565,
+    "created_at": "2021-11-16 13:52:22.012986"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 01:06:37.777741"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-16 01:06:02.160236"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 01:05:29.211745"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 01:04:52.495726"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1565,
+    "created_at": "2021-11-16 01:04:17.679966"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1565,
+    "created_at": "2021-11-16 01:01:10.472716"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-16 00:59:50.727001"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:57:14.477805"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:57:01.058503"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:56:19.849486"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:55:55.537178"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:55:08.699448"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:54:40.806024"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:54:11.730786"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:53:24.898649"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-16 00:52:44.064608"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-16 00:52:27.150466"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:51:42.471596"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:51:01.681168"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-16 00:50:16.9624"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:49:30.057058"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:48:44.903227"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:48:01.048318"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:46:59.043218"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:45:51.211543"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:45:15.363409"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:43:35.885109"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-16 00:42:44.738627"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:41:54.91263"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:41:06.658223"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1564,
+    "created_at": "2021-11-16 00:40:18.55366"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1564,
+    "created_at": "2021-11-16 00:39:45.547513"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:38:53.145091"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-16 00:37:56.736601"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-16 00:37:08.947992"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-16 00:36:28.68243"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:33:33.532661"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:32:48.957338"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:32:00.628185"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:31:18.304126"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-16 00:29:53.381188"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-16 00:29:01.402496"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1564,
+    "created_at": "2021-11-16 00:28:11.024946"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1564,
+    "created_at": "2021-11-16 00:27:08.0302"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1564,
+    "created_at": "2021-11-16 00:26:18.534788"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1564,
+    "created_at": "2021-11-16 00:25:43.500454"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:59:12.859032"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-15 00:58:37.873485"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:58:02.483641"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:57:29.756023"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1564,
+    "created_at": "2021-11-15 00:56:57.797207"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1564,
+    "created_at": "2021-11-15 00:55:24.810841"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-15 00:54:03.501478"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:52:01.523118"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:51:48.415246"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:51:08.782836"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:50:45.126206"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:49:59.298469"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:49:31.123321"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-15 00:49:04.63305"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:48:15.94861"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-15 00:47:35.51722"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-15 00:47:19.419102"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-15 00:46:34.609646"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:45:56.3418"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-15 00:45:10.072468"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:44:23.474061"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:43:38.559544"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-15 00:42:58.919358"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-15 00:42:23.368136"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:40:49.495029"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-15 00:40:02.740062"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:39:16.384814"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:38:29.249289"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1564,
+    "created_at": "2021-11-15 00:37:39.567978"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1564,
+    "created_at": "2021-11-15 00:37:06.995401"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:36:14.832994"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-15 00:35:16.228259"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-15 00:34:34.265041"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-15 00:33:48.34541"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-15 00:33:09.919845"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-15 00:30:17.864363"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-15 00:29:35.392025"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-15 00:28:52.211027"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-15 00:28:08.24367"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-15 00:26:45.882643"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-15 00:25:52.277917"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1563,
+    "created_at": "2021-11-15 00:25:06.761807"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1563,
+    "created_at": "2021-11-15 00:24:03.757402"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1563,
+    "created_at": "2021-11-15 00:23:15.592292"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1563,
+    "created_at": "2021-11-15 00:22:40.933353"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 01:08:51.352234"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-14 01:08:13.839447"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 01:07:34.425389"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 01:06:53.904359"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1563,
+    "created_at": "2021-11-14 01:06:17.181686"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1563,
+    "created_at": "2021-11-14 01:02:57.558161"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-14 01:01:32.719369"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:58:52.450776"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:58:38.856282"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:57:55.221655"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:57:28.048377"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:56:37.149919"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:56:05.972365"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:54:31.767905"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:52:44.81124"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:50:57.057552"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:50:05.41701"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-14 00:49:22.181166"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-14 00:49:02.910024"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-14 00:48:19.336602"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-14 00:48:00.767203"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-14 00:47:11.404295"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-14 00:46:54.059219"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:46:03.063505"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:45:18.79411"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-14 00:44:29.139496"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:43:39.975193"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:42:51.470253"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:42:06.309598"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:41:25.213885"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:39:46.785197"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-14 00:38:52.630638"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:38:00.249221"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:37:07.804316"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1563,
+    "created_at": "2021-11-14 00:36:17.475173"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1563,
+    "created_at": "2021-11-14 00:35:42.866541"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:34:44.018803"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-14 00:33:45.750466"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-14 00:32:56.165283"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-14 00:32:15.693636"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:29:28.906682"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:28:38.203287"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:27:45.690813"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-14 00:26:58.66329"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-14 00:25:58.094489"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1563,
+    "created_at": "2021-11-14 00:25:06.700238"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1563,
+    "created_at": "2021-11-14 00:23:56.35029"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1563,
+    "created_at": "2021-11-14 00:22:59.4292"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1563,
+    "created_at": "2021-11-14 00:22:21.207094"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 01:06:33.90955"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-13 01:05:56.659338"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 01:05:20.386863"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 01:04:38.948085"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1562,
+    "created_at": "2021-11-13 01:04:06.439444"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1562,
+    "created_at": "2021-11-13 01:01:41.958569"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-13 01:00:18.859225"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:58:16.449286"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:58:02.408772"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:57:22.363671"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:56:58.543378"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:56:11.794548"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:55:41.952833"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-13 00:55:12.437778"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:54:22.851395"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 175,
+    "client_id": 1491,
+    "created_at": "2021-11-13 00:53:41.61323"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-13 00:53:24.854648"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-13 00:52:41.390151"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:51:59.43244"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-13 00:51:13.598891"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:50:25.87164"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:49:39.90173"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-13 00:49:00.197073"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-13 00:48:22.908086"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:45:49.322732"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:43:58.9816"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:42:10.390386"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1491,
+    "created_at": "2021-11-13 00:41:17.796009"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:40:25.334042"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:39:29.79251"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1562,
+    "created_at": "2021-11-13 00:38:40.620916"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1562,
+    "created_at": "2021-11-13 00:38:05.155724"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 177,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:37:10.436158"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1420,
+    "created_at": "2021-11-13 00:36:08.174461"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 177,
+    "client_id": 1421,
+    "created_at": "2021-11-13 00:35:16.302183"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1421,
+    "created_at": "2021-11-13 00:34:35.393346"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-13 00:31:45.099008"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-13 00:31:00.354349"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-13 00:30:17.989059"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-13 00:29:35.294256"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": null,
+    "created_at": "2021-11-13 00:28:11.414704"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": null,
+    "created_at": "2021-11-13 00:27:19.429275"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1562,
+    "created_at": "2021-11-13 00:26:35.597811"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 175,
+    "client_id": 1562,
+    "created_at": "2021-11-13 00:25:35.84501"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1562,
+    "created_at": "2021-11-13 00:24:46.061061"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": null,
+    "client_id": 1562,
+    "created_at": "2021-11-13 00:24:11.340564"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 611,
+    "created_at": "2021-11-12 12:22:38.657253"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 611,
+    "created_at": "2021-11-12 12:21:40.117584"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 126,
+    "client_id": 1562,
+    "created_at": "2021-11-12 12:15:37.600848"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": 126,
+    "client_id": 1562,
+    "created_at": "2021-11-12 12:10:14.881732"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1562,
+    "created_at": "2021-11-12 11:27:10.217195"
+  },
+  {
+    "entryable_type": "PhoneCall::Inbound",
+    "admin_id": null,
+    "client_id": 1562,
+    "created_at": "2021-11-12 11:26:47.751138"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 178,
+    "client_id": 1499,
+    "created_at": "2021-11-12 11:17:08.017521"
+  },
+  {
+    "entryable_type": "PhoneCall::Outbound",
+    "admin_id": 178,
+    "client_id": 1499,
+    "created_at": "2021-11-12 08:05:45.276677"
+  }
+]
