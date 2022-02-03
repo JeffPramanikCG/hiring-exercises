@@ -40,7 +40,7 @@ Hash structure:
 ## Guidelines
 
 * use Ruby lang
-* follow ruby codeing guidelines, don't hesitate to apply https://github.com/rubocop/rubocop to you final solution
+* follow ruby coding guidelines, don't hesitate to apply https://github.com/rubocop/rubocop to you final solution
 * app should be runnable via `$>ruby task.rb`
 * do not fork this repo, archive your solution and send back to interviewer's contact email
 * feel free to ask for any clarification
