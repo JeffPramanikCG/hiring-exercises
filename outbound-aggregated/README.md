@@ -39,7 +39,7 @@ Hash structure:
 
 ## Guidelines
 
-* Use Ruby lang
+* use Ruby lang
 * app should be runnable via `$>ruby task.rb`
-* Do not fork this repo, archive your solution and send back to interviewer contact email
-* Feel free to ask for any clarification
+* do not fork this repo, archive your solution and send back to interviewer's contact email
+* feel free to ask for any clarification
