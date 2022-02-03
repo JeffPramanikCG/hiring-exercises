@@ -17,6 +17,7 @@ Hash structure:
 
 ## Example output:
 
+```
 {
     "2021-11-12" => [
         {
@@ -34,6 +35,7 @@ Hash structure:
         ...
     ]
 }
+```
 
 ## Guidelines
 
