@@ -1,6 +1,6 @@
 # Aggregated Outbound calls (Ruby Lang)
 
-Given a JSON-based dataset `cg-dev-test-feb-2.json` (taken from one PostgreSQL table).
+Given a JSON-based dataset [cg-dev-test-feb-2.json](https://github.com/standarddigital/hiring-exercises/blob/main/outbound-aggregated/cg-dev-test-feb-2.json) (taken from one PostgreSQL table).
 JSON dataset has `created_at` timestamp values from 2021-11-12 to 2021-11-26.
 
 ## Task
